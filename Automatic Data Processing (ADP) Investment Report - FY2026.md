@@ -1,4 +1,5 @@
-﻿# Automatic Data Processing, Inc. (ADP)
+This is not financial advice and is for my coursework.
+ # Automatic Data Processing, Inc. (ADP)
 
 ## Executive Stock Report
 
