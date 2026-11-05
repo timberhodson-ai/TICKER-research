@@ -1,0 +1,16 @@
+test_all_memos_and_injection (__main__.InvestorTests.test_all_memos_and_injection) ... ok
+test_apps (__main__.InvestorTests.test_apps) ... 2026-11-05 17:09:50.140 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-05 17:09:52.844 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_cost_known_answer (__main__.InvestorTests.test_cost_known_answer) ... ok
+test_jpm_gaps (__main__.InvestorTests.test_jpm_gaps) ... ok
+test_missing_and_nonpositive_equity (__main__.InvestorTests.test_missing_and_nonpositive_equity) ... ok
+test_probe (__main__.InvestorTests.test_probe) ... ok
+test_selection (__main__.InvestorTests.test_selection) ... ok
+test_skill_file_probe (__main__.InvestorTests.test_skill_file_probe) ... 2026-11-05 17:09:55.561 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 7.524s
+
+OK
